@@ -1,0 +1,22 @@
+﻿Build started 1/5/2016 2:30:01 AM.
+     1>Project "C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\Animation\Animation.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Ramin\Documents\Visual Studio 2015\Projects\Animation\Animation\SFML-2.3.2\include" /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Release\\" /Fd"x64\Release\vc140.pdb" /Gd /TP /errorReport:prompt Source.cpp
+         Source.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\x64\Release\Animation.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\Users\Ramin\Documents\Visual Studio 2015\Projects\Animation\Animation\SFML-2.3.2\lib" "sfml-graphics.lib" "sfml-window.lib" "sfml-system.lib" "sfml-audio.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\x64\Release\Animation.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG:incremental /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\x64\Release\Animation.lib" /MACHINE:X64 x64\Release\Animation.obj
+         x64\Release\Vampire.obj
+         x64\Release\player.obj
+         x64\Release\Source.obj
+         x64\Release\Zombie.obj
+         Generating code
+         1 of 94 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+           0 functions were new in current compilation
+           0 functions had inline decision re-evaluated but remain unchanged
+         Finished generating code
+         Animation.vcxproj -> C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\x64\Release\Animation.exe
+     1>Done Building Project "C:\Users\Ramin\documents\visual studio 2015\Projects\Animation\Animation\Animation.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.91
